@@ -25,7 +25,6 @@ for (var i = parola.length; i >= 0 ; i--) {
 // } else {
 //   console.log("Non Palindroma");
 // }
-
 }
 
 console.log(arrayVuoto);
