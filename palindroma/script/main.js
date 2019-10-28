@@ -3,9 +3,9 @@
 
 // chiedo di inserire una parola
 
-var parola = parola;
+var parola = "ciao";
+var stringaVuota;
 
-// creo la funzione revertare la parola
-function reverseString(parola) {
- console.log(parola);
+for (var i = 0; i < parola.length; i++) {
+ push
 }
