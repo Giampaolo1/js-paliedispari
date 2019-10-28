@@ -4,8 +4,10 @@
 // chiedo di inserire una parola
 
 var parola = "ciao";
-var stringaVuota = []
+var arrayVuoto = [];
 
 for (var i = 0; i < parola.length; i++) {
- stringaVuota.push (parola[i])
+ arrayVuoto.push (parola[i]);
+
+ console.log(arrayVuoto);
 }
