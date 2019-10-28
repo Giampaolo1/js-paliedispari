@@ -4,8 +4,8 @@
 // chiedo di inserire una parola
 
 var parola = "ciao";
-var stringaVuota;
+var stringaVuota = []
 
 for (var i = 0; i < parola.length; i++) {
- push
+ stringaVuota.push (parola[i])
 }
